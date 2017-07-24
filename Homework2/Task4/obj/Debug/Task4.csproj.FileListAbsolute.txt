@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Homework2\Task4\bin\Debug\Task4.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Homework2\Task4\bin\Debug\Task4.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Homework2\Task4\bin\Debug\Task4.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Homework2\Task4\obj\Debug\Task4.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Homework2\Task4\obj\Debug\Task4.pdb
