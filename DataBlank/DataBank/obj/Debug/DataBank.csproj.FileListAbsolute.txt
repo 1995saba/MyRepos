@@ -1,0 +1,5 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\DataBank\bin\Debug\DataBank.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\DataBank\bin\Debug\DataBank.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\DataBank\bin\Debug\DataBank.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\DataBank\obj\Debug\DataBank.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\DataBank\obj\Debug\DataBank.pdb

@@ -1,0 +1,9 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\Accounting system.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\Accounting system.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\Accounting system.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\DataBank.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\DataBank.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\bin\Debug\DataBank.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\obj\Debug\Accounting system.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\obj\Debug\Accounting system.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBlank\Accounting system\obj\Debug\Accounting system.pdb
