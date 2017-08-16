@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\RangeOfArray\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
