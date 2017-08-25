@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\PracticeCollection\Task2\bin\Debug\Task2.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\PracticeCollection\Task2\bin\Debug\Task2.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\PracticeCollection\Task2\bin\Debug\Task2.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\PracticeCollection\Task2\obj\Debug\Task2.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\PracticeCollection\Task2\obj\Debug\Task2.pdb
+C:\Users\ОрунбаеваС\Documents\Visual Studio 2017\Projects\PracticeCollection\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
